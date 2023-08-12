@@ -1,5 +1,7 @@
 # JavaFX-Chat-App
 
+<<img width="957" alt="Screenshot 2023-08-11 at 8 11 09 PM" src="https://github.com/prateek2468/JavaFX-Chat-App/assets/69041894/a4fa36e6-99aa-458b-988d-a7e1b3f05fa3">
+>
 This is a ChatApp built using Java for both the frontend and backend, with a JavaFX graphical user interface. The application allows users to engage in real-time text-based conversations through a local server.
 
 ## Features
